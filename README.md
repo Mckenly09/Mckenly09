@@ -63,7 +63,7 @@ I am a results-driven full-stack developer with expertise in designing and imple
 
 ## GitHub Analytics
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zekken193&theme=onedark&column=3&row=2&no-frame=true)](https://github.com/Mckenly09)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mckenly09&theme=onedark&column=3&row=2&no-frame=true)](https://github.com/Mckenly09)
 
 ---
 
