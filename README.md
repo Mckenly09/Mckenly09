@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a results-driven full-stack developer with expertise in designing and implementing scalable web and mobile applications. With a strong foundation in both frontend and backend technologies, I focus on delivering high-quality solutions that drive business value.
+I am a results-driven full-stack developer with expertise in designing and implementing scalable web and mobile applications. With a strong foundation in both frontend and backend technologies, I focus on delivering high-quality solutions.
 
 - **Specialization:** Full-stack web and mobile development
 - **Focus:** Scalability, performance optimization, and best practices
@@ -63,6 +63,10 @@ I am a results-driven full-stack developer with expertise in designing and imple
 
 ## GitHub Analytics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mckenly09&show_icons=true&theme=onedark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mckenly09&layout=compact&theme=onedark)
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mckenly09&theme=onedark&column=3&row=2&no-frame=true)](https://github.com/Mckenly09)
 
 ---
@@ -77,9 +81,9 @@ Explore my repositories to see detailed implementations, architecture patterns, 
 
 I'm always interested in discussing technology, collaborating on innovative projects, or exploring new opportunities.
 
-- **GitHub:** [github.com/Zekken193](https://github.com/Mckenly09)
+- **GitHub:** [github.com/Mckenly09](https://github.com/Mckenly09)
 - **Open to:** Full-time opportunities • Freelance projects • Technical collaborations
 
 ---
 
-_Last updated: May 2026_
+_Last updated: June 2026_
