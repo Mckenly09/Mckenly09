@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a results-driven full-stack developer with expertise in designing and implementing scalable web and mobile applications. With a strong foundation in both frontend and backend technologies, I focus on delivering high-quality solutions.
+I am a results-driven full-stack developer with expertise in designing and implementing scalable web and mobile applications. With a strong foundation in both frontend and backend technologies, I focus on delivering high-quality solutions that drive business value.
 
 - **Specialization:** Full-stack web and mobile development
 - **Focus:** Scalability, performance optimization, and best practices
